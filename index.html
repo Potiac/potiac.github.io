@@ -2,33 +2,48 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Potiac Store</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f8f8f8;
+      background: url('market-bg.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      position: relative;
       margin: 0;
       padding: 0;
     }
-    header {
-      background-color: #0077cc;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    .logo {
-      display: block;
-      margin: 0 auto;
-      width: 120px;
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: -1;
     }
     .container {
       max-width: 800px;
       margin: 40px auto;
-      background: white;
+      background: rgba(255, 255, 255, 0.9);
+      color: #333;
       padding: 40px;
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    header {
+      background-color: #000;
+      color: white;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo {
+      height: 60px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 1.8em;
     }
     h2 {
       color: #333;
@@ -45,16 +60,19 @@
       font-size: 0.9em;
       padding: 20px 0;
       background-color: #f0f0f0;
-      margin-top: 40px;
+      color: #333;
     }
   </style>
 </head>
 <body>
   <header>
-    <img src="Potiac Logo.png" alt="Potiac Logo" class="logo">
-    <h1>Potiac Store</h1>
-    <p>Your trusted source for great deals on quality goods</p>
+    <img src="Potiac%20Logo.png" alt="Potiac Logo" class="logo">
+    <div>
+      <h1>Potiac Store</h1>
+      <p>Your trusted source for great deals on quality goods</p>
+    </div>
   </header>
+
   <div class="container">
     <h2>Shop Our Listings</h2>
     <ul>
@@ -67,8 +85,10 @@
       Whether you're looking for seasonal products, electronics, outdoor gear, or home essentials — we've got you covered.</p>
 
     <h2>About Me</h2>
-    <p>Hi there! I’m the founder of Potiac Store — a veteran-owned small business built on integrity, service, and attention to quality. I take pride in sourcing great deals from liquidation channels, storage auctions and estate sales as well as trusted suppliers to pass the value on to you.</p>
-    <p> Thank you for supporting a small, independantly run business like mine. Every purchase makes a real difference.</p>
+    <p>Hi there! I’m the founder of Potiac Store — a veteran-owned small business built on integrity, service, and attention to quality.
+      I take pride in sourcing great deals from liquidation channels, storage auctions, and estate sales as well as trusted suppliers to pass the value on to you.</p>
+    <p>Thank you for supporting a small, independently run business like mine. Every purchase makes a real difference.</p>
+
     <h2>Contact</h2>
     <p>Email us at: <a href="mailto:potiacstore@gmail.com">contact@potiacstore.com</a></p>
   </div>
