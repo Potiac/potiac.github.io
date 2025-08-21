@@ -117,7 +117,29 @@
 		"/local/sewing/sewing7.jpg",
 		"/local/sewing/sewing8.jpg",
 		"/local/sewing/sewing9.jpg"],
-    "description": "Works great. Fully cleaned. Normal wear"}
+    "description": "Works great. Fully cleaned. Normal wear"
+  },
+   
+  {"id": "LP-007",
+    "title": "Milwaukee Folding Hand Truck – 150 lb Capacity",
+    "price": 40,
+    "condition": "Pre-Loved",
+    "category": "Tools",
+    "city": "Pembroke Pines, FL",
+    "zip": "33026",    
+    "status": "available",
+    "images": [ "/local/Mil-dolly/Mil-dolly1.jpg",
+		"/local/Mil-dolly/Mil-dolly2.jpg",
+		"/local/Mil-dolly/Mil-dolly3.jpg",
+		"/local/Mil-dolly/Mil-dolly4.jpg",
+		"/local/Mil-dolly/Mil-dolly5.jpg",
+		"/local/Mil-dolly/Mil-dolly6.jpg",
+		"/local/Mil-dolly/Mil-dolly7.jpg",
+		"/local/Mil-dolly/Mil-dolly8.jpg",
+		"/local/Mil-dolly/Mil-dolly9.jpg"],
+    "description": "Works great. Fully cleaned. Normal wear"
+}
 
 
 ]
+
