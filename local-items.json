@@ -98,7 +98,26 @@
 		"/local/wagon/wagon6.jpg",
 		"/local/wagon/wagon7.jpg"],
     "description": "Works great. Fully cleaned. Normal wear"
-  }
+  },
+   
+  {"id": "LP-006",
+    "title": "Kenmore Sewing Machine Model 148.156",
+    "price": 135,
+    "condition": "Pre-Loved",
+    "category": "Vintage",
+    "city": "Pembroke Pines, FL",
+    "zip": "33026",    
+    "status": "available",
+    "images": [ "/local/sewing/sewing1.jpg",
+		"/local/sewing/sewing2.jpg",
+		"/local/sewing/sewing3.jpg",
+		"/local/sewing/sewing4.jpg",
+		"/local/sewing/sewing5.jpg",
+		"/local/sewing/sewing6.jpg",
+		"/local/sewing/sewing7.jpg",
+		"/local/sewing/sewing8.jpg",
+		"/local/sewing/sewing9.jpg"],
+    "description": "Works great. Fully cleaned. Normal wear"}
 
 
 ]
