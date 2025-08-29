@@ -72,7 +72,7 @@
     "city": "Pembroke Pines, FL",
     "zip": "33026",
     "dimensions": "72\"L ",
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/lamp/lamp1.jpg",
 		"/local/lamp/lamp2.jpg",
 		"/local/lamp/lamp3.jpg",
@@ -178,6 +178,7 @@
     "description": "Works great. Fully cleaned. Normal wear"
   }
 ]
+
 
 
 
