@@ -54,7 +54,7 @@
     "city": "Pembroke Pines, FL",
     "zip": "33026",
     "dimensions": "24\"L × 16\" W × 19\" H",
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/dog-cage/dog-cage1.jpg",
 		"/local/dog-cage/dog-cage2.jpg",
 		"/local/dog-cage/dog-cage3.jpg",
@@ -178,6 +178,7 @@
     "description": "Works great. Fully cleaned. Normal wear"
   }
 ]
+
 
 
 
