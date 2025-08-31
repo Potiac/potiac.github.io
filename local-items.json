@@ -176,8 +176,29 @@
 		"/local/Skateboards/Skateboards5.jpg",
 		"/local/Skateboards/Skateboards6.jpg"],
     "description": "Works great. Fully cleaned. Normal wear"
+},
+   
+  {"id": "LP-010",
+    "title": "Lot of 3 Nerf Blasters – Roblox & Nerf Rival",
+    "price": 50,
+    "condition": "Pre-Loved",
+    "category": "Sport Equipment",
+    "city": "Pembroke Pines, FL",
+    "zip": "33026",    
+    "status": "available",
+    "images": [ "/local/nerf/nerf1.jpg",
+		"/local/nerf/nerf2.jpg",
+		"/local/nerf/nerf3.jpg",
+		"/local/nerf/nerf4.jpg",
+		"/local/nerf/nerf5.jpg",
+		"/local/nerf/nerf6.jpg",
+		"/local/nerf/nerf7.jpg",
+		"/local/nerf/nerf8.jpg",
+		"/local/nerf/nerf9.jpg"],
+    "description": "Works great. Fully cleaned. Normal wear"
   }
 ]
+
 
 
 
