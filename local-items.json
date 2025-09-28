@@ -351,7 +351,7 @@
     "category": "Decor",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/CHEETAH/CHEETAH1.jpg",
 		"/local/CHEETAH/CHEETAH2.jpg",
 		"/local/CHEETAH/CHEETAH3.jpg",
@@ -538,4 +538,5 @@
 
 
 ]
+
 
