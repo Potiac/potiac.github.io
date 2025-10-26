@@ -89,7 +89,7 @@
     "category": "Car seats and Strollers",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/wagon/wagon1.jpg",
 		"/local/wagon/wagon2.jpg",
 		"/local/wagon/wagon3.jpg",
@@ -538,5 +538,6 @@
 
 
 ]
+
 
 
