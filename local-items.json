@@ -168,7 +168,7 @@
     "category": "Sport Equipment",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/Skateboards/Skateboards1.jpg",
 		"/local/Skateboards/Skateboards2.jpg",
 		"/local/Skateboards/Skateboards3.jpg",
@@ -472,7 +472,7 @@
     "category": "Decor",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/BMW/BMW1.jpg",
 		"/local/BMW/BMW2.jpg",
 		"/local/BMW/BMW3.jpg",
@@ -538,6 +538,7 @@
 
 
 ]
+
 
 
 
