@@ -89,7 +89,7 @@
     "category": "Car seats and Strollers",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "sold",
+    "status": "available",
     "images": [ "/local/wagon/wagon1.jpg",
 		"/local/wagon/wagon2.jpg",
 		"/local/wagon/wagon3.jpg",
@@ -168,7 +168,7 @@
     "category": "Sport Equipment",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "sold",
+    "status": "available",
     "images": [ "/local/Skateboards/Skateboards1.jpg",
 		"/local/Skateboards/Skateboards2.jpg",
 		"/local/Skateboards/Skateboards3.jpg",
@@ -236,7 +236,7 @@
 		"/local/TWO-PALM/TWO-PALM7.jpg",
 		"/local/TWO-PALM/TWO-PALM8.jpg",
 		"/local/TWO-PALM/TWO-PALM9.jpg",
-	    "/local/TWO-PALM/TWO-PALM10.jpg"],
+		"/local/TWO-PALM/TWO-PALM10.jpg"],
     "description": "Minor Blemishes, Looks great"
 },
    
@@ -351,7 +351,7 @@
     "category": "Decor",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "sold",
+    "status": "available",
     "images": [ "/local/CHEETAH/CHEETAH1.jpg",
 		"/local/CHEETAH/CHEETAH2.jpg",
 		"/local/CHEETAH/CHEETAH3.jpg",
@@ -472,7 +472,7 @@
     "category": "Decor",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "sold",
+    "status": "available",
     "images": [ "/local/BMW/BMW1.jpg",
 		"/local/BMW/BMW2.jpg",
 		"/local/BMW/BMW3.jpg",
@@ -538,7 +538,3 @@
 
 
 ]
-
-
-
-
