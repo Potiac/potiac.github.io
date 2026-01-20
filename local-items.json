@@ -34,7 +34,7 @@
     "city": "Pembroke Pines, FL",
     "zip": "33026",
     "dimensions": "28\" L × 17\" W × 25\" H",
-    "status": "Available",
+    "status": "sold",
     "images": [ "/local/car-seat/car-seat1.jpg",
 		"/local/car-seat/car-seat2.jpg",
 		"/local/car-seat/car-seat3.jpg",
@@ -89,7 +89,7 @@
     "category": "Car seats and Strollers",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/wagon/wagon1.jpg",
 		"/local/wagon/wagon2.jpg",
 		"/local/wagon/wagon3.jpg",
@@ -168,7 +168,7 @@
     "category": "Sport Equipment",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/Skateboards/Skateboards1.jpg",
 		"/local/Skateboards/Skateboards2.jpg",
 		"/local/Skateboards/Skateboards3.jpg",
@@ -345,26 +345,6 @@
 },
   
   {"id": "LP-019",
-    "title": "Framed Wildlife Art — Cheetahs in the Wild",
-    "price": 55,
-    "condition": "Pre-Loved",
-    "category": "Decor",
-    "city": "Pembroke Pines, FL",
-    "zip": "33026",    
-    "status": "available",
-    "images": [ "/local/CHEETAH/CHEETAH1.jpg",
-		"/local/CHEETAH/CHEETAH2.jpg",
-		"/local/CHEETAH/CHEETAH3.jpg",
-		"/local/CHEETAH/CHEETAH4.jpg",
-		"/local/CHEETAH/CHEETAH5.jpg",
-		"/local/CHEETAH/CHEETAH6.jpg",
-		"/local/CHEETAH/CHEETAH7.jpg",
-		"/local/CHEETAH/CHEETAH8.jpg"],
-    "description": "Minor Blemishes, Looks great"
-
-},
-  
-  {"id": "LP-020",
     "title": "Framed Original Space Art — Signed",
     "price": 100,
     "condition": "Pre-Loved",
@@ -384,7 +364,7 @@
 
 },
   
-  {"id": "LP-021",
+  {"id": "LP-020",
     "title": "Large Framed Caribbean Coastal Painting",
     "price": 350,
     "condition": "Pre-Loved",
@@ -405,7 +385,7 @@
     "description": "Minor Blemishes, Looks great"
 },
   
-  {"id": "LP-022",
+  {"id": "LP-021",
     "title": "Framed Elephant Wall Art – Colorful Tribal Style by Roberto M.",
     "price": 350,
     "condition": "Pre-Loved",
@@ -426,7 +406,7 @@
     "description": "Minor Blemishes, Looks great"
 },
   
-  {"id": "LP-023",
+  {"id": "LP-022",
     "title": "Framed Floral Still Life Wall Art – Vase with Pastel Flowers",
     "price": 110,
     "condition": "Pre-Loved",
@@ -446,7 +426,7 @@
 
 },
   
-  {"id": "LP-024",
+  {"id": "LP-023",
     "title": "Framed Martial Arts Fan Wall Art – Red Dragon Kung Fu Yin-Yang",
     "price": 100,
     "condition": "Pre-Loved",
@@ -465,14 +445,14 @@
 
 },
   
-  {"id": "LP-025",
+  {"id": "LP-024",
     "title": "BMW R1200 GS Kids Ride-On Electric Motorcycle – Fully Functional",
     "price": 110,
     "condition": "Pre-Loved",
     "category": "Decor",
     "city": "Pembroke Pines, FL",
     "zip": "33026",    
-    "status": "available",
+    "status": "sold",
     "images": [ "/local/BMW/BMW1.jpg",
 		"/local/BMW/BMW2.jpg",
 		"/local/BMW/BMW3.jpg",
@@ -503,32 +483,6 @@
 		"/local/LION/LION9.jpg",
 		"/local/LION/LION10.jpg",
 		"/local/LION/LION11.jpg"],
-    "description": "Minor Blemishes, Looks great"
-
-},
-  
-  {"id": "LP-027",
-    "title": "Kids Electric Ride-On Unicorn – Riding Buddy w/ New Battery & Charger",
-    "price": 120,
-    "condition": "Pre-Loved",
-    "category": "Decor",
-    "city": "Pembroke Pines, FL",
-    "zip": "33026",    
-    "status": "available",
-    "images": [ "/local/UNI/UNI1.jpg",
-		"/local/UNI/UNI2.jpg",
-		"/local/UNI/UNI3.jpg",
-		"/local/UNI/UNI4.jpg",
-		"/local/UNI/UNI5.jpg",
-		"/local/UNI/UNI6.jpg",
-		"/local/UNI/UNI7.jpg",
-		"/local/UNI/UNI8.jpg",
-		"/local/UNI/UNI9.jpg",
-		"/local/UNI/UNI10.jpg",
-		"/local/UNI/UNI11.jpg",
-		"/local/UNI/UNI12.jpg",
-		"/local/UNI/UNI13.jpg",
-		"/local/UNI/UNI14.jpg"],
     "description": "Minor Blemishes, Looks great"
 
 }
